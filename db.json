@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "id": "b035c354-44b8-4ab3-a8d6-04792f863cde",
+      "name": "World news",
+      "description": "Lorem ipsum about world news",
+      "category": "World news"
+    },
+    {
+      "id": "86d08d31-bec5-418b-94ce-ccc829ee58d1",
+      "name": "Hot news",
+      "description": "Lorem ipsum this summer is ver interesting",
+      "category": "Hot news"
+    },
+    {
+      "id": "cf5741ea-6f1e-43fd-9357-def164aa6d06",
+      "name": "Sport news",
+      "description": "Lorem ipsum this day news about football worlds Russian teams disqualification in all games FIFA",
+      "category": "Sport news"
+    },
+    {
+      "id": "4b5b2242-bb3b-4e16-9eee-ae6145265bbc",
+      "name": "Sport news 2",
+      "description": "Lorem ipsum this day news about football worlds Russian teams disqualification in all games FIFA\n\n",
+      "category": "Sport news"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot news",
+      "label": "Hot news",
+      "className": "btn-danger"
+    },
+    {
+      "name": "World news",
+      "label": "World news",
+      "className": "btn-success"
+    },
+    {
+      "name": "Sport news",
+      "label": "Sport news",
+      "className": "btn-primary"
+    }
+  ]
+}
